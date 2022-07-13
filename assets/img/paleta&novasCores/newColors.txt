@@ -1,0 +1,9 @@
+
+NOVAS CORES:
+#ffffff
+#14213d azul
+#fca311 Amarelo
+#e5e5e5 Cinza
+#ffffff branco
+
+
