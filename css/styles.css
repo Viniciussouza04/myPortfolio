@@ -11526,6 +11526,28 @@ html {
   padding: 80px;
 }
 
+@media (max-width: 1400px){
+  .icons-general{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .icon-dev{
+    padding: 65px;
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 994px){
+  .icons-general{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .icon-dev{
+    padding: 45px;
+    font-size: 30px;
+  }
+}
+
 @media (max-width: 768px){
   .icons-general{
     padding-top: 50px;
@@ -11534,6 +11556,17 @@ html {
   .icon-dev{
     padding: 30px;
     font-size: 32px;
+  }
+}
+
+@media (max-width: 616px){
+  .icons-general{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .icon-dev{
+    padding: 28px;
+    font-size: 28px;
   }
 }
 
@@ -11548,6 +11581,17 @@ html {
   }
 }
 
+@media (max-width: 390px){
+  .icons-general{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .icon-dev{
+    padding: 10px;
+    font-size: 25px;
+  }
+}
+
 @media (max-width: 280px){
   .icons-general{
     padding-top: 50px;
@@ -11558,6 +11602,7 @@ html {
     font-size: 20px;
   }
 }
+
 
 
 
